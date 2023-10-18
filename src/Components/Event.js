@@ -12,12 +12,12 @@ const Event = () => {
       <div className="mt-5">
       <div className="bg-white w-full h-24 rounded-md shadow-lg flex justify-between">
         <div className="m-4">
-          <div className="flex gap-3">
+          <div className="flex gap-3 mb-2 items-center">
             <div>
             <p className="font-bold">ハロインイベント</p>
             </div>
             <div>
-              <p className="bg-blue-600 text-white px-1 rounded text-sm">3期生</p>
+              <p className="bg-blue-600 text-white px-2 py-1 rounded text-xs">3期生</p>
             </div>
           </div>
           <p className="text-base">2023年10月29日(日)</p>
